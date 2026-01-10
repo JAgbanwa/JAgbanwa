@@ -1,5 +1,8 @@
 ## Hi there 👋
 I am a mathematician independently working in Number Theory on Diophantine equations. I am working at the moment on the sums of three cubes problem especially for the case of 114.
+
+## Preprints
+\href{https://figshare.com/articles/preprint/Closed_form_formulas_on_the_sums_of_three_cubes_for_k_114_192_/30509981}{A Parametric Framework for the Sum of Three Cubes Problem}
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
