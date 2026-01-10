@@ -13,7 +13,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **Advancing the $3 \times 3$ Magic Square of Squares** (Sep 2025)  
   [Figshare](https://figshare.com/articles/preprint/Result_on_3x3_magic_square_of_squares_pdf/30120724)  
-  *New insights into a combinatorial number theory problem*
+  *New insights into the magic square of squares problem*
 
 
 ### Sequences (OEIS)
