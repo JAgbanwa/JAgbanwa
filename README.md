@@ -24,9 +24,6 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 - **OEIS Sequence A389865** — Additional sequence accepted to OEIS  
   [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A389865)
   
-  ![OEIS](https://img.shields.io/badge/OEIS-A384106-blue)
-  ![OEIS](https://img.shields.io/badge/OEIS-A389865-blue)
-  
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
