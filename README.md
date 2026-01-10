@@ -21,7 +21,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **On Equal Sums of Fourth Powers** (Aug 2025)  
   [Figshare](https://figshare.com/articles/preprint/On_Equal_Sums_of_Fourth_Powers_Computational_and_Symbolic_Approaches_to_A_4_B_4_C_4_D_4_-19_pdf/29610767)  
-  *Computational and symbolic approaches to $A^4 + B^4 = C^4 + D^4$*
+  *Computational and symbolic approaches to A^4 + B^4 = C^4 + D^4*
 
 - **A Closed-Form Symbolic Generator for $A^n + B^n = C^n + D^n$** (Jun 2025)  
   [arXiv:2506.19173](https://arxiv.org/abs/2506.19173v1) | [Harvard ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250619173A/abstract)  
