@@ -25,11 +25,19 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **A Closed-Form Symbolic Generator for $A^n + B^n = C^n + D^n$** (Jun 2025)  
   [arXiv:2506.19173](https://arxiv.org/abs/2506.19173v1) | [Harvard ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250619173A/abstract)  
-  *Closed-form solutions for $n=2$ and $n=3$ cases*
+  *Closed-form solutions for n=2 and n=3 cases*
 
 - **A Divisor-Based Proof on the Non-Existence of Perfect Cuboids** (Apr 2025)  
   [Figshare](https://figshare.com/articles/preprint/A_divisor_based_proof_on_the_non_existence_of_perfect_cuboids-39_pdf/28829606)  
   *Early work on perfect cuboid problem*
+
+### Sequences (OEIS)
+
+- **OEIS Sequence A384106** — Discovered and published new integer sequence  
+  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=1009736%2C+2714690888&language=english&go=Search)
+
+- **OEIS Sequence A389865** — Additional sequence accepted to OEIS  
+  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A389865)
 
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
