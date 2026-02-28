@@ -3,7 +3,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 ### Selected preprints
 
-- **A Parametric Framework for the Sum of Three Cubes Problem** (Nov 2025)  
+- **A Parametric Reduction of $x^3 + y^3 + z^3 = k$ to Elliptic Curves and Rational Solutions for $k = 114$** (Nov 2025)  
   [Figshare](https://figshare.com/articles/preprint/Closed_form_formulas_on_the_sums_of_three_cubes_for_k_114_192_/30509981)  
   *Developing novel approaches to the sum of three cubes problem*
 
