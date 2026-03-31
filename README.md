@@ -26,6 +26,12 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **OEIS Sequence A393694** — A new sequence under accepted on the OEIS  
   [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A393694)
+
+
+## 📊 My GitHub Activity
+
+[![JAgbanwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAgbanwa&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/JAgbanwa)
+
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
