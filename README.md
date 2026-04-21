@@ -35,7 +35,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 [![JAgbanwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAgbanwa&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/JAgbanwa)
 
-![JAgbanwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![JAgbanwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAGBANWA&show_icons=true&theme=radical)
 
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
