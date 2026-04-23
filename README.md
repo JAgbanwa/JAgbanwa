@@ -37,6 +37,8 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JAgbanwa&theme=radical)
 
+![Profile Views](https://gitstrength.netlify.app/api/visitor-count?key=JAgbanwa)
+
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
