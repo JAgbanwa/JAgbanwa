@@ -11,7 +11,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
   [arXiv:2506.19173](https://arxiv.org/abs/2506.19173v1) | [Harvard ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250619173A/abstract)  
   *Closed-form solutions for n=2 and n=3 cases*
 
-- **Advancing the $3 \times 3$ Magic Square of Squares** (Sep 2025)  
+- **A Parameterization of the \texorpdfstring{$3 \times 3$}{3x3} Magic Square of Squares Problem** (Sep 2025)  
   [Figshare](https://figshare.com/articles/preprint/Result_on_3x3_magic_square_of_squares_pdf/30120724)  
   *New insights into the magic square of squares problem*
 
