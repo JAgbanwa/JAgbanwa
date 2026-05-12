@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a mathematician independently working in Number Theory on Diophantine equations. I am working at the moment on the sums of three cubes problem especially for the case of 114.
+I am a mathematician independently working in Number Theory on Diophantine equations. I am working at the moment on the sums of three cubes problem.
 
 ### Selected preprints
 
