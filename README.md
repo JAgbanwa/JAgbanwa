@@ -34,6 +34,8 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 [![JAgbanwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAgbanwa&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/JAgbanwa)
 
+<!--
+
 [!JAgbanwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAgbanwa&show_icons=true&theme=radical)
 
 <!--
