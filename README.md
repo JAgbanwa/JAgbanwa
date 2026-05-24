@@ -15,21 +15,6 @@ I am a mathematician independently working in Number Theory on Diophantine equat
   [Figshare](https://figshare.com/articles/preprint/Result_on_3x3_magic_square_of_squares_pdf/30120724)  
   *New insights into the magic square of squares problem (Submitted to Notes on Number Theory and Discrete Mathematics)*
 
-
-### Sequences (OEIS)
-
-- **OEIS Sequence A384106** — Discovered and published new integer sequence  
-  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=1009736%2C+2714690888&language=english&go=Search)
-
-- **OEIS Sequence A389865** — Additional sequence accepted to OEIS  
-  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A389865)
-
-- **OEIS Sequence A393694** — A new sequence accepted on the OEIS   
-  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A393694)
-
-- **OEIS Sequence A395378** — Latest accepted sequence on the OEIS  
-  [On-Line Encyclopedia of Integer Sequences](https://oeis.org/A395378)
-
   This is [my portfolio](https://jagbanwa.github.io).
 
 ## 📊 My GitHub Activity
