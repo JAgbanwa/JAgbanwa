@@ -18,6 +18,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 ### Lean formalizations
 
     [TaxicabPell.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/blob/main/taxicab-pell/TaxicabPell.lean)
+    
 
     [MagicSquareOfSquares.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/tree/main/magic-square-of-squares)
   
