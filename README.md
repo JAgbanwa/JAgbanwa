@@ -15,7 +15,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
   [Figshare](https://figshare.com/articles/preprint/Result_on_3x3_magic_square_of_squares_pdf/30120724)  
   *New insights into the magic square of squares problem (Submitted to Notes on Number Theory and Discrete Mathematics)*
 
-  ### Lean formalizations
+### Lean formalizations
 
    [TaxicabPell.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/blob/main/taxicab-pell/TaxicabPell.lean)
 
