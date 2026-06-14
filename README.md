@@ -17,9 +17,10 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 ### Lean formalizations
 
+- **$A^n + B^n = C^n + D^n$**
     [TaxicabPell.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/blob/main/taxicab-pell/TaxicabPell.lean)
     
-
+- **$3 \times 3$ Magic Square of Squares Problem** 
     [MagicSquareOfSquares.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/tree/main/magic-square-of-squares)
   
   
