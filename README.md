@@ -26,7 +26,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
   
 This is [my portfolio](https://jagbanwa.github.io).
 
-Note that [\[1\]](https://zenodo.org/records/15497381) [\[2\]](https://figshare.com/articles/preprint/Divisor_Based_Impossibility_Constraints_for_Perfect_Cuboids_Copy_-4_pdf/30073876?file=57814045) [\[3\]](https://figshare.com/articles/preprint/A_divisor_based_proof_on_the_non_existence_of_perfect_cuboids-39_pdf/28829606?file=55595444) are flawed attempts at proving the non-existence of the perfect cuboid problem.
+Note that [\[1\]](https://zenodo.org/records/15497381) [\[2\]](https://figshare.com/articles/preprint/Divisor_Based_Impossibility_Constraints_for_Perfect_Cuboids_Copy_-4_pdf/30073876?file=57814045) [\[3\]](https://figshare.com/articles/preprint/A_divisor_based_proof_on_the_non_existence_of_perfect_cuboids-39_pdf/28829606?file=55595444) are flawed attempts at proving the non-existence of the perfect cuboid problem from 2025.
 
 
 ## 📊 My GitHub Activity
