@@ -13,7 +13,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **A Parameterization of the $3 \times 3$ Magic Square of Squares Problem** (Apr 2026)  
   [Figshare](https://figshare.com/articles/preprint/Result_on_3x3_magic_square_of_squares_pdf/30120724)  
-  *New insights into the magic square of squares problem (Submitted to Notes on Number Theory and Discrete Mathematics)*
+  *(Submitted to Notes on Number Theory and Discrete Mathematics)*
 
 ### Lean formalizations
 
