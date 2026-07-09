@@ -3,9 +3,9 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 ### Selected preprints
 
-- **A Parametric Reduction of $x^3 + y^3 + z^3 = k$ to Elliptic Curves and Rational Solutions for $k = 114$** (Nov 2025)  
-  [Figshare](https://figshare.com/articles/preprint/Closed_form_formulas_on_the_sums_of_three_cubes_for_k_114_192_/30509981)  
-  *Developing novel approaches to the sum of three cubes problem*
+- **On the polynomial values represented by quadratic forms** (July 2026)  
+  [	arXiv:2607.06627](https://arxiv.org/abs/2607.06627)
+  
 
 - **A Closed-Form Symbolic Generator for $A^n + B^n = C^n + D^n$** (Jun 2025)  
   [arXiv:2506.19173](https://arxiv.org/abs/2506.19173v1) | [Harvard ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250619173A/abstract)  
