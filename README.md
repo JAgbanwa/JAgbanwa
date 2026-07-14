@@ -22,7 +22,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 - **$3 \times 3$ Magic Square of Squares Problem** 
     [MagicSquareOfSquares.lean](https://github.com/JAgbanwa/miscellaneousmathproblems/tree/main/magic-square-of-squares)
 
-  - **On the polynomial values represented by quadratic forms** (July 2026) 
+- **On the polynomial values represented by quadratic forms** (July 2026) 
     [sumsquares.lean](https://github.com/JAgbanwa/PolynomialDiophantineEquations/blob/main/sumsquares/sumsquares.lean)
 
 This is [my portfolio](https://jagbanwa.github.io).
