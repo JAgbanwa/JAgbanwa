@@ -5,6 +5,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 - **On the polynomial values represented by quadratic forms** (July 2026)  
   [arXiv:2607.06627](https://arxiv.org/abs/2607.06627) | Submitted to International Journal of Number Theory
+  
   *Joint paper between Dr. Bogdan Grechuk and myself*
 
 - **A Closed-Form Symbolic Generator for $A^n + B^n = C^n + D^n$** (Jun 2025)  
