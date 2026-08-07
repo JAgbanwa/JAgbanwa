@@ -28,7 +28,7 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 
 Note that [\[1\]](https://zenodo.org/records/15497381) [\[2\]](https://figshare.com/articles/preprint/Divisor_Based_Impossibility_Constraints_for_Perfect_Cuboids_Copy_-4_pdf/30073876?file=57814045) [\[3\]](https://figshare.com/articles/preprint/A_divisor_based_proof_on_the_non_existence_of_perfect_cuboids-39_pdf/28829606?file=55595444) are flawed attempts at proving the non-existence of perfect cuboids from 2025.
 
-
+Due to a history rewrite, the number of contributions have spiked way above the usual. The original count for this year was 1870+, 186 for 2025 and 11 for 2024. It is expected that the numbers return to normal within a few days.
 
 ## 📊 My GitHub Activity
 
