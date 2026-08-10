@@ -30,9 +30,6 @@ Note that [\[1\]](https://zenodo.org/records/15497381) [\[2\]](https://figshare.
 
 Due to a history rewrite, the number of contributions have spiked way above the usual. The original count for this year was 1870+, 186 for 2025 and 11 for 2024. It is expected that the numbers return to normal within a few days.
 
-## 📊 My GitHub Activity
-
-[![JAgbanwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAgbanwa&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/JAgbanwa)
 
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
