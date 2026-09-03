@@ -29,9 +29,6 @@ I am a mathematician independently working in Number Theory on Diophantine equat
 Note that [\[1\]](https://zenodo.org/records/15497381) [\[2\]](https://figshare.com/articles/preprint/Divisor_Based_Impossibility_Constraints_for_Perfect_Cuboids_Copy_-4_pdf/30073876?file=57814045) [\[3\]](https://figshare.com/articles/preprint/A_divisor_based_proof_on_the_non_existence_of_perfect_cuboids-39_pdf/28829606?file=55595444) are flawed attempts at proving the non-existence of perfect cuboids from 2025.
 
 
-## 📊 My GitHub Activity
-
-[![JAgbanwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAgbanwa&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/JAgbanwa)
 
 <!--
 **JAgbanwa/JAgbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
