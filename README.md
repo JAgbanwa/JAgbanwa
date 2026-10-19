@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a mathematician independently working in Number Theory on Diophantine equations. I am working at the moment on the sums of three cubes problem.
+I am a mathematician independently working in Number Theory on Diophantine equations. I am working at the moment on the sums of three cubes problem. My efforts on some cases of this problem can be found [here](https://github.com/JAgbanwa/SomethingNew).
 
 ### Selected preprints
 
